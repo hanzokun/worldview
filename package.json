@@ -190,7 +190,7 @@
     "react-copy-to-clipboard": "^5.0.2",
     "react-dom": "^16.12.0",
     "react-draggable": "^4.1.0",
-    "react-image-crop": "^8.5.0",
+    "react-image-crop": "^8.6.2",
     "react-loader": "^2.4.7",
     "react-masonry-component": "^6.2.1",
     "react-mobile-datepicker": "^4.0.1",
